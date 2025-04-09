@@ -1,0 +1,13 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+tr:nth-child(1) {
+    background-color: rgb(211, 237, 244) ;
+}
+
+table {
+    margin-top: 3px;
+   padding: auto;
+}
